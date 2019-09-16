@@ -1,0 +1,30 @@
+_repo: Nousukas-Kertomus_60287
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Järvi, K. A. (Kaarlo August)
+    aliases:
+    - Järvi, Karl August
+    - Mallinen, Carl August
+    - Mällinen, Carl August
+    - Jarvi, K. A. (Kaarlo August)
+    - Järvi, Kaarlo August
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '44518'
+    url: http://www.gutenberg.org/2009/agents/44518
+description: ''
+gutenberg_issued: '2019-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60287'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Nousukas
+
+  Kertomus'
+url: http://www.gutenberg.org/ebooks/60287
